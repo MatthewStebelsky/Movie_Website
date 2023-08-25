@@ -1,0 +1,36 @@
+
+
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .header,
+  .main-content,
+  .footer {
+    width: 100%;
+    max-width: 800px; 
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .hero-section button {
+    margin-top: 20px;
+  }
+  
+  .features-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .testimonial-section .testimonial {
+    margin-top: 20px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+  }
+  
